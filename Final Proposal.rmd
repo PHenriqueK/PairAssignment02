@@ -15,9 +15,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##Motivation & Research Questions
 
+In recent years, the Berlin housing market has been the subject of a great deal of scrutiny. "Real Berliners" raised the alarm as a hoard of gentrifying students and entrepreneurs descended upon the city in recent years. However, they are not the only Berliners threatened by a new competitor. The rise of apartments on Airbnb as the place to stay has coincided with the rise of Berlin as the place to be and, like Real Berliners, hotels have noticed the new competition. 
+
+While Berliners fight tourists for apartments, hotels have been fighting apartments for tourists. This is no easy fight for the long-time incumbents, whose average price of 80 euros per night cannot compete with the average Airbnb price of 55 euros per night. @BERLINVSAIRBNBPLACEHOLDER
+
+We hypothesize that the higher the Airbnb supply in a given district in Berlin, the lower the hotel occupancy rate will be in that same district. Further, we believe that this effect will be more pronounced in districts with lower hotel density, since 77 percent of Berlin's Airbnb listings are outside of the main hotel districts. We also believe that, given the relative elasticity of travelers in choosing which district they stay in, hotel occupancy rates may decrease in a given district before Airbnb has even penetrated that district, if Airbnb has sufficiently penetrated a neighboring district @AIRBNBPLACEHOLDER
+
 justifying why the topic of study is interesting
 
 ##Literature Review
+
+Our work is closely related to that of Zervas, Byers, & Prosperio, whose 2016 paper explored the impact of Airbnb on the hotel industry in Texas. In their paper, Zervas et. al (2016) used a difference in differences method to measure the impact that Airbnb's presence had on Texas's hotel industry, and how this impact differed by region and by time. They found that a 10 percent size increase of the Airbnb market in Texas resulted in a .39 percent decrease in hotel revenue. This effect varied widely by region, howeve. Austin, for example showed a 8 to 10 percent impact on hotel revenue @zervas2016rise.
+
+Zervas et al. (2016) go on to investigate the impact of Airbnb's presence on different types of hotels and how the presence of Airbnb may effect hotels' pricing models. They find that hotels with lower prices are more affected than higher priced hotels, and that Airbnb has significantly hindered hotels' ability to raise prices during high demand periods. Fascinating though this is, data and time limitations will prevent us from investigating similar trends in Berlin. This we leave to future researchers whom the data gods have smiled upon more generously @zervas2016rise.
 
 providing a basic literature review (properly cited using BibTeX)
 
