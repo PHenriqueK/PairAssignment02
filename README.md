@@ -11,12 +11,12 @@ This repository contains the material for the Second Pair Assignment in Introduc
 The 
 
 #### Repository Files
-- The final project proposal can be found in Proposal.Rmd.  
-- the Data folder contains a file with early OECD data and Github data
-- License is a basic MIT license for the project
-- Main.bib is the main bibliographic file which is dynamically linked to Proposal.Rmd
-- Packages.bib is a bibliographic file dynamically linked to Proposal.Rmd with citations for R and R packages
-- README.MD is the file for the file currently being read, which offers introduction and context to the project, as interestingly as possible
+
+| Topic                    | Link |
+| ----------------------- | --------------------- | 
+| Airline Safety Record     | [Should Travelers Avoid Flying Airlines That Have Had Crashes In The Past?](http://fivethirtyeight.com/features/should-travelers-avoid-flying-airlines-that-have-had-crashes-in-the-past/)                   | 
+| Global Alcohol Consumption       | [Where Do People Drink The Most Beer, Wine, And Spirits?](http://fivethirtyeight.com/datalab/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/)        |
+
 
 
 #### Contact
