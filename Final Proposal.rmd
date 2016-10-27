@@ -14,17 +14,18 @@ number_sections: TRUE
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-##The effect of Airbnb's German market entry on Hotels in Berlin: A Regression Discontinuity Approach
+##The Effect of Airbnb's Market Entry on Hotels in Berlin: A Regression Discontinuity Approach
 
 ##Motivation & Research Questions
 
-In recent years, the Berlin housing market has been the subject of a great deal of scrutiny. "Real Berliners" raised the alarm as a hoard of gentrifying students and entrepreneurs descended upon the city in recent years. However, they are not the only Berliners threatened by a new competitor. The rise of apartments on Airbnb as the place to stay has coincided with the rise of Berlin as the place to be and, like Real Berliners, hotels have noticed the new competition. 
+The effects of Airbnb on the Berlin housing market has recently been the subject of a great deal of scrutiny. In 2014, the city passed a law that forbade renting out entire apartments to tourists on Airbnb. This came in response to an unprecedented 56 percent rise in rents in Berlin between 2009 and 2014, for which Airbnb and other online platforms recieved some of the blame. The city's law was widely welcomed by Berliners hoping to slow the forcs of gentrification, but it was also welcomed by another Airbnb victim in Berlin, the hotel industry. 
 
-While Berliners fight tourists for apartments, hotels have been fighting apartments for tourists. This is no easy fight for the long-time incumbents, whose average price of 80 euros per night cannot compete with the average Airbnb price of 55 euros per night. BERLINVSAIRBNBPLACEHOLDER
+While Berliners fought tourists for apartments, hotels were quietly fighting Airbnb for tourists. That's a tall order for the long-time incumbents, whose average price of 80 euros per night cannot compete with the average Airbnb price of 55 euros per night. To make matters worse, the rise of Berlin as the place to be happened to coincide with the rise of Airbnb as the place to stay. This prevented the hotels of Berlin from fully realizing profits that were, in their minds, rightfully theirs. In this paper we will seek to illustrate the magnitude of this "Airbnb effect" on hotels in Berlin. To that end, three hypotheses will guide our thinking. BERLINVSAIRBNBPLACEHOLDER
 
-We hypothesize that the higher the Airbnb supply in a given district in Berlin, the lower the hotel occupancy rate will be in that same district. Further, we believe that this effect will be more pronounced in districts with lower hotel density, since 77 percent of Berlin's Airbnb listings are outside of the main hotel districts. We also believe that, given the relative elasticity of travelers in choosing which district they stay in, hotel occupancy rates may decrease in a given district before Airbnb has even penetrated that district, if Airbnb has sufficiently penetrated a neighboring district AIRBNBPLACEHOLDER
+*H1: The higher the Airbnb supply in a given district in Berlin, the lower the hotel occupancy rate will be in that same district.*
+*H2: The effect of H1 will be more pronounced in districts with lower hotel density, since 77 percent of Berlin's Airbnb listings are outside of the main hotel districts.* AIRBNBPLACEHOLDER
+*H3: Given the relative elasticity of travelers in choosing which district they stay in, hotel occupancy rates may decrease in a given district before Airbnb has even penetrated that district, if Airbnb has sufficiently penetrated a neighboring district.*
 
-justifying why the topic of study is interesting
 
 ##Literature Review
 
@@ -32,7 +33,6 @@ Our work is closely related to that of Zervas, Byers, & Prosperio, whose 2016 pa
 
 Zervas et al. (2016) go on to investigate the impact of Airbnb's presence on different types of hotels and how the presence of Airbnb may effect hotels' pricing models. They find that hotels with lower prices are more affected than higher priced hotels, and that Airbnb has significantly hindered hotels' ability to raise prices during high demand periods. Fascinating though this is, data and time limitations will prevent us from investigating similar trends in Berlin. This we leave to future researchers whom the data gods have smiled upon more generously @zervas2016rise.
 
-providing a basic literature review (properly cited using BibTeX)
 
 ##Data & Methodology
 Our investigation is based on data from two different sources: 
