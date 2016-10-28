@@ -8,7 +8,7 @@ Latest Update: October 28, 2016
 
 ### Project Background
 
-This repository contains the material for the Second Pair Assignment in Introduction to Collaborative Social Science Data Analysis (MPP-E1180) @HSoG Berlin. We provide a first draft for the research proposal of our final project. In our paper, we will seek to illustrate the magnitude of the "Airbnb effect" on hotels in Berlin, using a Regression Discontinuity Model (RDM). While some literature does exist on the impact on rents since Airbnb's entry into Berlin, literature on the effect of Airbnb on hotels is quite limited. 
+This repository contains the material for the Second Pair Assignment in Introduction to Collaborative Social Science Data Analysis (MPP-E1180) @HSoG Berlin. We provide a first draft for the research proposal of our final project. In our paper, we will seek to illustrate the magnitude of the "Airbnb effect" on hotels in Berlin, using a Regression Discontinuity Model (RDM).
 
 ### Repository Files
 
